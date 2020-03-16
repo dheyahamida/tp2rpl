@@ -1,0 +1,12 @@
+.app{
+    background-image: -webkit-linear-gradient(pink, darkblue);
+}
+
+.wrapper{
+    margin-top: 30%;
+    margin-bottom: 100%;
+}
+
+.warning{
+    display: none;
+}
